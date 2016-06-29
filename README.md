@@ -17,7 +17,8 @@ positionFinder.sh 		— include compareJson.js via node.js <br/>
 
 # howto
 
-1. create a link and the variable „-s“ to use the command „airport -s“ <br/>sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport/usr/local/bin/airport <br/>
+1. create a link and the variable „-s“ to use the command „airport -s“ <br/>
+sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport/usr/local/bin/airport <br/>
 
 2. install node.js <br/>
 https://nodejs.org/en/download/ <br/>
