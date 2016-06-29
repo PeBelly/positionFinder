@@ -4,9 +4,11 @@ This project demonstrates how it goes to determine the current  position within 
 # infos
 
 Scripts only testet on Mac OS X 10.10.5 (Yosemite) <br/>
-Scripts partly include Apple-Script-Elements
+Scripts partly include AppleScript-Elements
 
 # content
+
+The project consists of two Shell-Scripts, three Json-Files and one JavaScript-File <br/>
 
 collectData.sh			— fill coordinates.json with new coordinates <br/>
 coordinates.json		— contains coordinates and their respective information <br/>
