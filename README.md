@@ -8,7 +8,7 @@ Scripts partly include AppleScript-Elements
 
 # content
 
-The project consists of two Shell-Scripts, three Json-Files and one JavaScript-File <br/>
+The project contains two Shell-Scripts, three Json-Files and one JavaScript-File <br/>
 
 collectData.sh			— fill coordinates.json with new coordinates <br/>
 coordinates.json		— contains coordinates and their respective information <br/>
