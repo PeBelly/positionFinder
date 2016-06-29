@@ -3,8 +3,8 @@ This project demonstrates how it goes to determine the current  position within 
 
 # infos
 
+Scripts only testet on Mac OS X 10.10.5 (Yosemite) <br/>
 Scripts partly include Apple-Script-Elements
-Scripts only testet on Mac OS X 10.10.5 (Yosemite)
 
 # content
 
