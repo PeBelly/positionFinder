@@ -13,7 +13,7 @@ The project contains two Shell-Scripts, three Json-Files and one JavaScript-File
 collectData.sh			— fill coordinates.json with new coordinates <br/>
 coordinates.json		— contains coordinates and their respective information <br/>
 temp.json				— temp-file for coordinates.json <br/>
-currentPosition.json	— contains coordinates of current position <br/>
+currentPosition.json	— contains coordinate of current position <br/>
 compareJson.js			— compare coordinates.json with currentPosition.json <br/>
 positionFinder.sh 		— include compareJson.js via node.js <br/>
 
